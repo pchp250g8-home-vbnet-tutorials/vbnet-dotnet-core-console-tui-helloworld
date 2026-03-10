@@ -1,6 +1,7 @@
 Imports System
 
 Module Program
+    
     Sub Main(args As String())
         Console.Clear()
         Console.CursorVisible = False
@@ -10,4 +11,5 @@ Module Program
         Console.Write("VB.Net DotNet Core Platform!!!")
         Console.ReadKey()
     End Sub
+    
 End Module
